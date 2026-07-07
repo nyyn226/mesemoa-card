@@ -1,0 +1,457 @@
+{
+  "magic": "my-ideals-template",
+  "version": 1,
+  "revision": 1,
+  "id": "mesemoa-47-tour",
+  "name": "めせもあ。47ツアートレカ",
+  "imageResourceType": "inline",
+  "members": [
+    {
+      "id": "nokkuso",
+      "name": "ノックソ"
+    },
+    {
+      "id": "nozakibento",
+      "name": "野崎弁当"
+    },
+    {
+      "id": "aoi",
+      "name": "あおい"
+    },
+    {
+      "id": "kimagure-prince",
+      "name": "気まぐれﾌﾟﾘﾝｽ"
+    },
+    {
+      "id": "tomitake",
+      "name": "とみたけ"
+    },
+    {
+      "id": "group",
+      "name": "集合"
+    }
+  ],
+  "collections": [
+    {
+      "id": "47-tour",
+      "name": "47ツアー",
+      "items": [
+        {
+          "id": "nokkuso-kicho-full",
+          "member": "nokkuso",
+          "name": "機長（全身）"
+        },
+        {
+          "id": "nokkuso-kicho-close",
+          "member": "nokkuso",
+          "name": "機長（寄り）"
+        },
+        {
+          "id": "nokkuso-kicho-selfie1",
+          "member": "nokkuso",
+          "name": "機長（自撮り1）"
+        },
+        {
+          "id": "nokkuso-kicho-selfie2",
+          "member": "nokkuso",
+          "name": "機長（自撮り2）"
+        },
+        {
+          "id": "nokkuso-sweethome-full",
+          "member": "nokkuso",
+          "name": "スイートホーム（全身）"
+        },
+        {
+          "id": "nokkuso-sweethome-close",
+          "member": "nokkuso",
+          "name": "スイートホーム（寄り）"
+        },
+        {
+          "id": "nokkuso-sweethome-selfie1",
+          "member": "nokkuso",
+          "name": "スイートホーム（自撮り1）"
+        },
+        {
+          "id": "nokkuso-sweethome-selfie2",
+          "member": "nokkuso",
+          "name": "スイートホーム（自撮り2）"
+        },
+        {
+          "id": "nokkuso-venom-full",
+          "member": "nokkuso",
+          "name": "求愛Venom（全身）"
+        },
+        {
+          "id": "nokkuso-venom-close",
+          "member": "nokkuso",
+          "name": "求愛Venom（寄り）"
+        },
+        {
+          "id": "nokkuso-venom-selfie1",
+          "member": "nokkuso",
+          "name": "求愛Venom（自撮り1）"
+        },
+        {
+          "id": "nokkuso-venom-selfie2",
+          "member": "nokkuso",
+          "name": "求愛Venom（自撮り2）"
+        },
+        {
+          "id": "nokkuso-hakama-full",
+          "member": "nokkuso",
+          "name": "袴（全身）"
+        },
+        {
+          "id": "nokkuso-hakama-close",
+          "member": "nokkuso",
+          "name": "袴（寄り）"
+        },
+        {
+          "id": "nokkuso-hakama-selfie1",
+          "member": "nokkuso",
+          "name": "袴（自撮り1）"
+        },
+        {
+          "id": "nokkuso-hakama-selfie2",
+          "member": "nokkuso",
+          "name": "袴（自撮り2）"
+        },
+        {
+          "id": "nozakibento-kicho-full",
+          "member": "nozakibento",
+          "name": "機長（全身）"
+        },
+        {
+          "id": "nozakibento-kicho-close",
+          "member": "nozakibento",
+          "name": "機長（寄り）"
+        },
+        {
+          "id": "nozakibento-kicho-selfie1",
+          "member": "nozakibento",
+          "name": "機長（自撮り1）"
+        },
+        {
+          "id": "nozakibento-kicho-selfie2",
+          "member": "nozakibento",
+          "name": "機長（自撮り2）"
+        },
+        {
+          "id": "nozakibento-sweethome-full",
+          "member": "nozakibento",
+          "name": "スイートホーム（全身）"
+        },
+        {
+          "id": "nozakibento-sweethome-close",
+          "member": "nozakibento",
+          "name": "スイートホーム（寄り）"
+        },
+        {
+          "id": "nozakibento-sweethome-selfie1",
+          "member": "nozakibento",
+          "name": "スイートホーム（自撮り1）"
+        },
+        {
+          "id": "nozakibento-sweethome-selfie2",
+          "member": "nozakibento",
+          "name": "スイートホーム（自撮り2）"
+        },
+        {
+          "id": "nozakibento-venom-full",
+          "member": "nozakibento",
+          "name": "求愛Venom（全身）"
+        },
+        {
+          "id": "nozakibento-venom-close",
+          "member": "nozakibento",
+          "name": "求愛Venom（寄り）"
+        },
+        {
+          "id": "nozakibento-venom-selfie1",
+          "member": "nozakibento",
+          "name": "求愛Venom（自撮り1）"
+        },
+        {
+          "id": "nozakibento-venom-selfie2",
+          "member": "nozakibento",
+          "name": "求愛Venom（自撮り2）"
+        },
+        {
+          "id": "nozakibento-hakama-full",
+          "member": "nozakibento",
+          "name": "袴（全身）"
+        },
+        {
+          "id": "nozakibento-hakama-close",
+          "member": "nozakibento",
+          "name": "袴（寄り）"
+        },
+        {
+          "id": "nozakibento-hakama-selfie1",
+          "member": "nozakibento",
+          "name": "袴（自撮り1）"
+        },
+        {
+          "id": "nozakibento-hakama-selfie2",
+          "member": "nozakibento",
+          "name": "袴（自撮り2）"
+        },
+        {
+          "id": "aoi-kicho-full",
+          "member": "aoi",
+          "name": "機長（全身）"
+        },
+        {
+          "id": "aoi-kicho-close",
+          "member": "aoi",
+          "name": "機長（寄り）"
+        },
+        {
+          "id": "aoi-kicho-selfie1",
+          "member": "aoi",
+          "name": "機長（自撮り1）"
+        },
+        {
+          "id": "aoi-kicho-selfie2",
+          "member": "aoi",
+          "name": "機長（自撮り2）"
+        },
+        {
+          "id": "aoi-sweethome-full",
+          "member": "aoi",
+          "name": "スイートホーム（全身）"
+        },
+        {
+          "id": "aoi-sweethome-close",
+          "member": "aoi",
+          "name": "スイートホーム（寄り）"
+        },
+        {
+          "id": "aoi-sweethome-selfie1",
+          "member": "aoi",
+          "name": "スイートホーム（自撮り1）"
+        },
+        {
+          "id": "aoi-sweethome-selfie2",
+          "member": "aoi",
+          "name": "スイートホーム（自撮り2）"
+        },
+        {
+          "id": "aoi-venom-full",
+          "member": "aoi",
+          "name": "求愛Venom（全身）"
+        },
+        {
+          "id": "aoi-venom-close",
+          "member": "aoi",
+          "name": "求愛Venom（寄り）"
+        },
+        {
+          "id": "aoi-venom-selfie1",
+          "member": "aoi",
+          "name": "求愛Venom（自撮り1）"
+        },
+        {
+          "id": "aoi-venom-selfie2",
+          "member": "aoi",
+          "name": "求愛Venom（自撮り2）"
+        },
+        {
+          "id": "aoi-hakama-full",
+          "member": "aoi",
+          "name": "袴（全身）"
+        },
+        {
+          "id": "aoi-hakama-close",
+          "member": "aoi",
+          "name": "袴（寄り）"
+        },
+        {
+          "id": "aoi-hakama-selfie1",
+          "member": "aoi",
+          "name": "袴（自撮り1）"
+        },
+        {
+          "id": "aoi-hakama-selfie2",
+          "member": "aoi",
+          "name": "袴（自撮り2）"
+        },
+        {
+          "id": "kimagure-prince-kicho-full",
+          "member": "kimagure-prince",
+          "name": "機長（全身）"
+        },
+        {
+          "id": "kimagure-prince-kicho-close",
+          "member": "kimagure-prince",
+          "name": "機長（寄り）"
+        },
+        {
+          "id": "kimagure-prince-kicho-selfie1",
+          "member": "kimagure-prince",
+          "name": "機長（自撮り1）"
+        },
+        {
+          "id": "kimagure-prince-kicho-selfie2",
+          "member": "kimagure-prince",
+          "name": "機長（自撮り2）"
+        },
+        {
+          "id": "kimagure-prince-sweethome-full",
+          "member": "kimagure-prince",
+          "name": "スイートホーム（全身）"
+        },
+        {
+          "id": "kimagure-prince-sweethome-close",
+          "member": "kimagure-prince",
+          "name": "スイートホーム（寄り）"
+        },
+        {
+          "id": "kimagure-prince-sweethome-selfie1",
+          "member": "kimagure-prince",
+          "name": "スイートホーム（自撮り1）"
+        },
+        {
+          "id": "kimagure-prince-sweethome-selfie2",
+          "member": "kimagure-prince",
+          "name": "スイートホーム（自撮り2）"
+        },
+        {
+          "id": "kimagure-prince-venom-full",
+          "member": "kimagure-prince",
+          "name": "求愛Venom（全身）"
+        },
+        {
+          "id": "kimagure-prince-venom-close",
+          "member": "kimagure-prince",
+          "name": "求愛Venom（寄り）"
+        },
+        {
+          "id": "kimagure-prince-venom-selfie1",
+          "member": "kimagure-prince",
+          "name": "求愛Venom（自撮り1）"
+        },
+        {
+          "id": "kimagure-prince-venom-selfie2",
+          "member": "kimagure-prince",
+          "name": "求愛Venom（自撮り2）"
+        },
+        {
+          "id": "kimagure-prince-hakama-full",
+          "member": "kimagure-prince",
+          "name": "袴（全身）"
+        },
+        {
+          "id": "kimagure-prince-hakama-close",
+          "member": "kimagure-prince",
+          "name": "袴（寄り）"
+        },
+        {
+          "id": "kimagure-prince-hakama-selfie1",
+          "member": "kimagure-prince",
+          "name": "袴（自撮り1）"
+        },
+        {
+          "id": "kimagure-prince-hakama-selfie2",
+          "member": "kimagure-prince",
+          "name": "袴（自撮り2）"
+        },
+        {
+          "id": "tomitake-kicho-full",
+          "member": "tomitake",
+          "name": "機長（全身）"
+        },
+        {
+          "id": "tomitake-kicho-close",
+          "member": "tomitake",
+          "name": "機長（寄り）"
+        },
+        {
+          "id": "tomitake-kicho-selfie1",
+          "member": "tomitake",
+          "name": "機長（自撮り1）"
+        },
+        {
+          "id": "tomitake-kicho-selfie2",
+          "member": "tomitake",
+          "name": "機長（自撮り2）"
+        },
+        {
+          "id": "tomitake-sweethome-full",
+          "member": "tomitake",
+          "name": "スイートホーム（全身）"
+        },
+        {
+          "id": "tomitake-sweethome-close",
+          "member": "tomitake",
+          "name": "スイートホーム（寄り）"
+        },
+        {
+          "id": "tomitake-sweethome-selfie1",
+          "member": "tomitake",
+          "name": "スイートホーム（自撮り1）"
+        },
+        {
+          "id": "tomitake-sweethome-selfie2",
+          "member": "tomitake",
+          "name": "スイートホーム（自撮り2）"
+        },
+        {
+          "id": "tomitake-venom-full",
+          "member": "tomitake",
+          "name": "求愛Venom（全身）"
+        },
+        {
+          "id": "tomitake-venom-close",
+          "member": "tomitake",
+          "name": "求愛Venom（寄り）"
+        },
+        {
+          "id": "tomitake-venom-selfie1",
+          "member": "tomitake",
+          "name": "求愛Venom（自撮り1）"
+        },
+        {
+          "id": "tomitake-venom-selfie2",
+          "member": "tomitake",
+          "name": "求愛Venom（自撮り2）"
+        },
+        {
+          "id": "tomitake-hakama-full",
+          "member": "tomitake",
+          "name": "袴（全身）"
+        },
+        {
+          "id": "tomitake-hakama-close",
+          "member": "tomitake",
+          "name": "袴（寄り）"
+        },
+        {
+          "id": "tomitake-hakama-selfie1",
+          "member": "tomitake",
+          "name": "袴（自撮り1）"
+        },
+        {
+          "id": "tomitake-hakama-selfie2",
+          "member": "tomitake",
+          "name": "袴（自撮り2）"
+        },
+        {
+          "id": "group-kicho",
+          "member": "group",
+          "name": "集合（機長）"
+        },
+        {
+          "id": "group-sweethome",
+          "member": "group",
+          "name": "集合（スイートホーム）"
+        },
+        {
+          "id": "group-venom",
+          "member": "group",
+          "name": "集合（求愛Venom）"
+        }
+      ]
+    }
+  ]
+}
